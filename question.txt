@@ -1,0 +1,21 @@
+Challenge: Build a Responsive Product Card
+
+We’re excited to see your skills in action! 
+
+For this challenge, you’ll create a responsive product card component using Tailwind CSS.
+
+Requirements:
+
+The card should include:
+
+ 
+1. An image (you can use a placeholder or any relevant product image).
+
+2. A title (e.g., "Product Name") and a short description.
+
+3. A 'Buy Now' button. 
+
+Ensure the card is responsive.  It should look great on both mobile and desktop devices. Use Tailwind CSS utility classes for styling and responsiveness.
+Expectations:
+
+Showcase your understanding of Tailwind's responsive utilities (e.g., sm:, md:, lg:). Demonstrate clean, well-structured code that follows best practices. The design doesn’t need to be overly complex—focus on functionality and responsiveness.
