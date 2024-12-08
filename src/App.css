@@ -1,0 +1,7 @@
+.description {
+  overflow: hidden;
+  text-overflow: ellipsis; /*ellipsis (...) for overflow */
+  white-space: nowrap; /* text in a single line */
+  display: block;
+  max-width: 100%;
+}
